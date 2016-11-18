@@ -1,2 +1,2 @@
 # Stegnography
-A novel vedio stegnography technique using advance network encoding
+A novel video stegnography technique using advance network encoding
